@@ -10,7 +10,7 @@ I'm Aymerick LAURETTA-PERONNE, simplified by my usual name Benjamin Peronne, I'm
     - SQL
 
 # Contact
-- 📫 How to reach me : contact@benjaminperonne.fr
+- 📫 contact@benjaminperonne.fr
 
 <!--
 - 🔭 I’m currently working on ...
