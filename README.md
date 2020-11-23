@@ -1,4 +1,5 @@
-I'm Aymerick LAURETTA-PERONNE, simplified by my usual name Benjamin Peronne, I'm a French student in computer science, in France (Guadeloupe 🇫🇷). I'm passionate by writing code, The fact of innovating in order to make things easier for the human being, the evolution of the mankind forever was guided by the meaning of making things easier. 
+<div text-align="center'> I'm Aymerick LAURETTA-PERONNE, simplified by my usual name Benjamin Peronne, I'm a French student in computer science, in France (Guadeloupe 🇫🇷). I'm passionate by writing code, The fact of innovating in order to make things easier for the human being, the evolution of the mankind forever was guided by the meaning of making things easier.  </div>
+
 
 <!--
 **BenjaminPeronne/BenjaminPeronne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
