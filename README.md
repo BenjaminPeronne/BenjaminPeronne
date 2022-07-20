@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin Peronne</h1>
 <h3 align="center">A passionate student developer from France</h3>
 
-- 👨‍💻 All of my projects are available at [https://benjaminperonne.fr/blog/](https://benjaminperonne.fr/public/#s3)
+- 👨‍💻 All of my projects are available at [https://benjaminperonne.fr](https://benjaminperonne.fr/public/#s3)
 
 - 📫 How to reach me **contact@benjaminperonne.fr**
 
