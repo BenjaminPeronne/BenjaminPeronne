@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin Peronne</h1>
-<h3 align="center">A passionate student developer from France</h3>
+<h3 align="center">A passionate student developer from Guadeloupe (France)</h3>
 
 - 👨‍💻 All of my projects are available at [https://benjaminperonne.fr](https://benjaminperonne.fr/public/#s3)
 
