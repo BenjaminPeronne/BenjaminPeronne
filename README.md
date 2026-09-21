@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin Peronne</h1>
 <h3 align="center">Independent Full-Stack Developer & Project Manager from Guadeloupe (France)</h3>
 
-I run my own software development business, building web applications and custom solutions with Python, JavaScript, and PHP.
+I run my own software development business, building web applications and custom solutions.
 
 - 👨‍💻 All of my projects are available at [https://benjaminperonne.fr](https://benjaminperonne.fr/public/#s3)
 
